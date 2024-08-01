@@ -1,0 +1,214 @@
+@media(max-width:1199.98px){
+    .navbar-brand img {
+        max-width: 150px;
+    }
+    .navbar-nav {
+        padding-left:0px;
+    }
+    .carousel-caption h1{
+        font-size: 45px;
+    }
+    .abtRight-box h2 {
+        font-size: 32px;
+        margin-top: 5px;
+    }
+    .abtRight-box p {
+        font-size: 14px;
+    }
+    .blog-titletxt p {
+        font-size: 16px;
+    }
+    .bloglarge-txt h3 a{
+        font-weight: 600;
+        font-size: 22px;
+    }
+    .bloglarge-txt p {
+        margin-bottom: 12px;
+        font-size: 16px;
+    }
+    .review_box p{
+        font-size: 14px;
+    }
+    .lefthead-box h2{
+        font-size: 30px;
+    }
+    .lefthead-box h2 span{
+        font-size: 30px;
+    }
+    .ftr-icon span {
+        color: white;
+        font-size: 14px;
+    }
+}
+
+@media(max-width:991.98px){
+    .mail_adrs a{
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .navbar-light .navbar-toggler {
+        color: white;
+        border-color: white;
+        background: white;
+    }
+      .abt-img img {
+        position: relative;
+        width: 65%;
+    }
+    img.abt-overlay{
+        display: none;
+    }
+    .abtRight-box h5{
+        margin-top: 25px;
+    }
+    .work-box {
+        text-align: center;
+        margin-bottom: 22px;
+    }
+    .work-txt p {
+        font-size: 16px;
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    .skyblu-btn{
+        padding: 10px 15px;
+    }
+    .footer-box {
+        margin-bottom: 45px;
+        text-align: left;
+    }
+    .quick-links {
+        padding-left: 0;
+    }
+    .book-icon{
+        margin: 14px auto;
+    }
+    .book-box {
+        display: inline-block;
+        text-align: center;
+    }
+    .booked-btn {
+        text-align: center;
+    }
+    .book-txt {
+        max-width: 400px;
+        margin-left: 20px;
+        margin-bottom: 10px;
+    }
+    .our-services .head-title h2{
+        font-size: 30px;
+    }
+    .abt-img img {
+        width:500px;
+    }
+    .how-work .head-title h2 {
+        color: #fff;
+        font-size: 32px;
+    }
+    .how-work .head-title h2 {
+        font-size: 32px;
+    }
+    .latest-blog .lefthead-box h2{
+        font-size:30px;
+    }
+    .latest-blog .lefthead-box h2 span{
+        font-size:30px;
+    }
+    .contact-us{
+        padding: 40px 25px;
+    }
+    .contact-form{
+        padding: 10px;
+    }
+    .skyblu-btn {
+        padding: 16px 15px;
+    }
+    .subscribe .lefthead-box h2 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+    .subscribe .lefthead-box h2 span {
+        font-size: 24px;
+        line-height: 40px;
+    }
+    .subscribe-form .form-control {
+        padding: 5px 12px;
+        font-size: 14px;
+    }
+    .subscribe-btn{
+        width: 150px;
+    }
+    .quick-links h4{
+        font-size: 20px;
+    }
+    .quick-links {
+        margin-bottom: 22px;
+    }
+    .rating i.bx.bxs-star {
+        color: #fba311;
+        font-size: 12px;
+    }
+    .user-name{
+        font-size: 16px;
+    }
+    .testimonial .head-title h5 {
+        font-size: 14px;
+    }
+    .testimonial .head-title h2 {
+        font-size: 28px;
+    }
+    .testimonial {
+        padding: 0px 0 50px 0;
+    }
+    .mail_adrs span{
+        display: none;
+    }
+    .mail_adrs a {
+        padding-right: 10px;
+    }
+    .mail_adrs i {
+        color: #899198;
+    }
+    .social_icon a {
+        margin: 0 6px;
+    }
+    .latest-blog .lefthead-box h2 {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .latest-blog .lefthead-box h2 span {
+        font-size: 26px;
+    }
+    .latest-blog .lefthead-box h5{
+        font-size: 12px;
+    }
+}
+@media(max-width:767.98px){
+    .skyblu-btn {
+        padding: 16px 12px;
+        font-size: 12px;
+    }
+    .latest-blog .lefthead-box h2 span {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .latest-blog .lefthead-box h2 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .latest-blog .lefthead-box h2 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .latest-blog .lefthead-box h2 span {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .latest-blog .skyblu-btn {
+        padding: 10px 10px;
+        font-size: 12px;
+    }
+    .subscribe-btn {
+        width: 100px;
+    }
+}
